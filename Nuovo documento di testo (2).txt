@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Ibiza</title>
+</head>
+<body>
+<center><h1><font color="red">IBIZA</font></h1></center>
+<img src="IBIZA.jfif" wi height>
+</body>
+</html>
